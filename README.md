@@ -1,4 +1,5 @@
-**Hey.**
+**/hĕ-lō′, hə-/**
+
 
 	I don't do much, actually, it'd be a phenomenon to see show some action.
 
