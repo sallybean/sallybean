@@ -1,16 +1,16 @@
 
-	I don't do much, actually, it'd be a phenomenon to see show some action.
+		I don't do much, actually, it'd be a phenomenon to see show some action.
 
 	I've been trying to learn. Like:
-	Rust - Don't know much.
+		Rust - Don't know much.
 	Python - I made a few projects here and versa.
-	C - I've gotten into the iPhone jailbreaking and stuff.
+		C - I've gotten into the iPhone jailbreaking and stuff.
 	Web - Probably the farthest in terms of development, though definitely inexperienced fs.
 
 	Twitter // [LINK]
-	YouTube // [LINK]
+		YouTube // [LINK]
 	Discord // [LINK]
-	Mail // Under that giant circle. No? sallybean@duck.com
+		Mail // Under that giant circle. No? sallybean@duck.com
 <!--
 
 
