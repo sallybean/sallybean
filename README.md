@@ -10,7 +10,7 @@
 	Twitter // [LINK]
 	YouTube // [LINK]
 	Discord // [LINK]
-	Mail // [[sallybean@duck.com]]
+	Mail // Under that giant circle. No? sallybean@duck.com
 <!--
 
 
