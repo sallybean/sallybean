@@ -1,32 +1,25 @@
-**/hĕ-lō′, hə-/**
-
-
-	I don't do much, actually, it'd be a phenomenon to see show some action.
-
-	I've been trying to learn. Like:
-		Rust - Don't know much.
-	Python - I made a few projects here and versa.
-		C - I've gotten into the iPhone jailbreaking and stuff.
-	Web - Probably the farthest in terms of development, though definitely inexperienced fs.
-
-		Twitter // [LINK]
-	YouTube // [LINK]
-		Discord // [LINK]
-	Mail // [[sallybean@duck.com]]
-<!--
-
-
-<!--
-**sallybean/sallybean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>
+	Hello!?
+	<br/>
+	I don't do much, actually; it'd be a phenomenon if I worked on anything.
+	<br/>
+	I've been trying to learn stuff. Like:
+	<br/>
+	Rust &nbsp; :: Learned nothing.
+	<br/>
+	Python :: I made a few project . . . And forgot it all.&nbsp;[#>========]
+	</br>
+	WebDev :: The most experienced so far— still horrible, though.[###>=====]
+	</br>
+	C :: Uhh.
+	</br>
+	- / - / - / - / -
+	</br>
+	Twitter >> <a href="https://x.com/sallyfiend">sallyfiend</a> -> Not guaranteed to stay, but should be along these lines or so.
+	</br>
+	Discord >> Figuring that out.
+	</br>
+	YoutTube >> <a href="https://www.youtube.com/@albertsally">albertsally</a>
+	</br>
+	Mail >> Under that humongous circle with my icon. No? <a href="mailto:sallybean@duck.com">sallybean@duck.com</a>
+</samp>
