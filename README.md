@@ -15,11 +15,11 @@
 	</br>
 	- / - / - / - / -
 	</br>
-	Twitter >> <a href="https://x.com/sallyfiend">sallyfiend</a> -> Not guaranteed to stay, but should be along these lines or so.
+	Twitter >> Not guaranteed to stay, but should be along these lines or so.
 	</br>
 	Discord >> Figuring that out.
 	</br>
-	YoutTube >> <a href="https://www.youtube.com/@albertsally">albertsally</a>
+	YoutTube >>
 	</br>
 	Mail >> Under that humongous circle with my icon. No? <a href="mailto:sallybean@duck.com">sallybean@duck.com</a>
 </samp>
