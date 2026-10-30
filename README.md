@@ -21,5 +21,5 @@
 	</br>
 	YoutTube >> <a href="https://www.youtube.com/@albertsally">albertsally</a>
 	</br>
-	Mail >> Under that humongous circle with my icon. No? <a href="mailto:sallybean@duck.com">sallybean@duck.com</a>
+	Mail >> <a href="mailto:sallybean@duck.com">sallybean@duck.com</a> If you didn't see it under my humongous circle.
 </samp>
