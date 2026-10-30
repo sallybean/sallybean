@@ -15,7 +15,7 @@
 	</br>
 	- / - / - / - / -
 	</br>
-	Twitter >> <a href="https://x.com/sallyfiend">sallyfiend</a> -> Not guaranteed to stay, but should be along these lines or so.
+	Twitter >> <a href="https://x.com/sallywacky">sallywacky</a> -> Should stay along these lines.
 	</br>
 	Discord >> Figuring that out.
 	</br>
