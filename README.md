@@ -17,7 +17,7 @@
 	</br>
 	Twitter >> <a href="https://x.com/sallywacky">sallywacky</a> -> Should stay along these lines.
 	</br>
-	Discord >> Figuring that out.
+	Discord >> <a href="1387459596096114718">sallyfied</a>
 	</br>
 	YoutTube >> <a href="https://www.youtube.com/@albertsally">albertsally</a>
 	</br>
